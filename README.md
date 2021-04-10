@@ -1,6 +1,10 @@
 # Smith Waterman Local Alignment
 
+
+
 This algorithm implementation performs the Smith Waterman Local Alignment with Open and Extension Gaps.
+
+The dependecies include `pandas`, `numpy`, and `argparse`.
 
 The `blosum62.txt` file provides the scores for match and mismatch.
 
